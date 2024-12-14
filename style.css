@@ -1,0 +1,62 @@
+body {
+  background-image: url(images/bg-header-desktop.png);
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+}
+
+.btn-1 {
+  margin-top: 30px;
+  background-color: hsl(171, 66%, 44%);
+  color: white;
+  padding: 13px;
+  border-radius: 20px;
+  border: none;
+  width: 150px;
+}
+.btn-2 {
+  margin-top: 30px;
+  background-color: hsl(233, 100%, 69%);
+  color: white;
+  padding: 13px;
+  border-radius: 20px;
+  border: none;
+  width: 150px;
+}
+
+.cont-keep {
+  margin-top: 120px;
+}
+.txt-clipboard {
+  width: 500px;
+  margin: auto;
+}
+
+.cont {
+  display: flex;
+}
+
+.img-computer {
+  margin-top: 30px;
+  width: 600px;
+}
+.txt-h3 {
+  margin-right: 50px;
+  color: hsl(210, 10%, 33%);
+}
+.txt-p {
+  width: 260px;
+  margin: auto;
+  margin-left: 100px;
+  color: hsl(201, 11%, 66%);
+}
+
+.container-access {
+  margin-top: 100px;
+}
+
+.img-devices {
+  width: 600px;
+}
